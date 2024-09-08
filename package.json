@@ -2,15 +2,15 @@
   "name": "github-moonlight",
   "version": "3.4.2",
   "main": "index.js",
-  "author": "brettm12345 <brettmandler@gmail.com> (https://github.com/brettm12345)",
-  "description": "A dark blue github theme",
-  "homepage": "https://github.com/brettm12345/github-moonlight",
+  "author": "holyspiritomb",
+  "description": "A fork of brettm12345's dark blue github theme",
+  "homepage": "https://github.com/holyspiritomb/github-moonlight",
   "bugs": {
-    "url": "https://github.com/brettm12345/github-moonlight/issues"
+    "url": "https://github.com/holyspiritomb/github-moonlight/issues"
   },
   "repository": {
     "url": "git",
-    "type": "https://github.com/brettm12345/github-moonlight.git"
+    "type": "https://github.com/holyspiritomb/github-moonlight.git"
   },
   "license": "MIT",
   "scripts": {
